@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "uber-de-tanzeel",
+  "private_key_id": "dd853f076bf0963c1d5b34a216e47d11000a953c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDzr90dyzOnBEDR\nvOXhEjWlsX6eGRxMI/9JLPtlZKdKW2YwBa8QMMjosquMddKp96VBTDU6ZA+RD0iJ\naozC9HcitF4ykxg52fxrdvvyFvOf/DPVEQamivh03I1qgq3YAj9hgGD7eEftVpSe\nzzjx89UuDMm1gZppSL/6OWk6CnAPi07AoWj7SWZgOi7WjG9SWCD6GxZRtS3rh+te\noUrKJjh1H41TPrJIf6NDgI3BGUzIlkW2y+VgO2RZIm0t0euGAI2GKCqwjgjtCjRZ\nZjiCQQpAkq0KKNxvkgIV1Y9PGVlQdAM7lDcEnuO7/NbaiHuOme1y92ug/fEtHzFz\nt6dycrkxAgMBAAECggEAAn+5pgfRJcVMSa1e2tR/Ucqg2gWxTbOttDVjLWUukdoA\n+TPt6LY/7lNucGBKONvpCrhkQojyRFkn1Wa5ta/zETzWfAYqoi6rMFZP6rLyPrKA\n22z0zqhh9TsFb/2eJMlSiuaBOyTXLl2jCRLgVo7wSRPC2eouPYez5VSPgY2XNJ5X\n6fUBLZDJrAjgNMPGZPgGbaznUa/lxyqvxfHGpJc3W11kPlOjestcFMwj/hduchZ2\nqCTDuS8G4uMFku0wxMN0zUXLI4BAwD+0rqHfuvmQ7P0PmFo6uZhjWTUhsWr8MzfD\nkny8LxhrDYYfjmEylis/v/QrV1LThnCNCBIAvBH+fQKBgQD8llD+PjRMBqrAkiuh\nx9AKu0G20YQsMTiVA5MCbGHfC19lNQSzn/P3MHUbkn8CO54ojOP7idkey49P6eaC\nk8luzVWTFPz42yVyJSQ4q+OeM9jXySXE+8zm4FrkTLjjotyv6StofnhdfuBWctQK\n64cR7UrT6BPK0UTlMY/7iG13hQKBgQD2+sMYNhP0sWOfwpwoEOrt13UZKyeshvMC\nldWmt5TWBjRXS8ll8dH8RT3Q/NqPxVIgTBZIMF3h8s6cjXoKHpVx7dH1muaIbQf/\nR+Kvm3arKDdRgdptHxTRGhjOJM4CrmX9hiknwoTYVKJOFiC7xi9xmXMEGwA8vaNi\nT1/PE25MvQKBgGzAZ4Tf0XJ+WFxrUt/oAPnt4ABPuyGv25XFITGk6oq3Ac64ghq4\nnrjqIzHI5GhYtOLurmYp1tK8gCq/IWFNMihDvjmCity2tiusNCk2UN1Xo2BdGabz\nZyhsppWvNtfD0lLnCKqH8VkH/J0b+ZHuEIy2Z0ZPoN3tNkWcDksVVVRlAoGAbrVv\nOG4dOeU+NAHnP6p9tImNCvAmQ5bmXXVOpQHLrLhxQ+RL7e+c4gkjsYd2bVXU/3c7\n0bYkj0DozpI4b0rQUJZ7NC3wQp0lJZBSk8cLRaOsUFP11k5FZYneLqGe2uLUAvXd\ngt4V8GbXrksK90DaSYCwZtm3nIKhN1M/LjKWkb0CgYAjMqVz4S+5CN0FCcHmRqry\n/HXeEmLOhtADXlyYZKVvuu0Wkr8DPwEceUQ+2cewuM4VKkHaSP9PvFa5BfDFfexH\nhvEHohxuyDw2VVtKTUFkOkuHbKnrrK9Db2ECrL12KTpbwI6hddM4C+Dtx2b0Pngn\nkUzrFe4BjDnnAZ3xASVk1A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "uber-tanzeel@uber-de-tanzeel.iam.gserviceaccount.com",
+  "client_id": "105507260965923946753",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uber-tanzeel%40uber-de-tanzeel.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
