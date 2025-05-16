@@ -38,7 +38,7 @@ default_args = {
     'retries': 1,
     'retry_delay': timedelta(minutes=5),
     'email_on_failure': True,
-    'email': ['tanzeelprof1705@gmail.com']
+    'email': ['@@@@@@@@@@@@']
 }
 
 
